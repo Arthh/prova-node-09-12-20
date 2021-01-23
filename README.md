@@ -5,9 +5,9 @@ O projeto utiliza uma base de dados postgreSQL, database chamada helpper.
 
 Utilize o comando `yarn sequelize db:migrate`.
 
-Para iniciar o projeto utilize o comando 'yarn start'.
+Para iniciar o projeto utilize o comando `yarn start`.
 
-Para realizar os testes unitários utilize o comando 'yarn mocha'
+Para realizar os testes unitários utilize o comando `yarn mocha`.
 
 
 ## ROTAS
